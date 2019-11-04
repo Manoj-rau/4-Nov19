@@ -28,7 +28,7 @@ public class Student extends HttpServlet {
 		String mob=request.getParameter("mob");
 		String address=request.getParameter("address");
 		pw.print("id"+id);
-		
+		pw.print("id"+id);
 		
 	}
 
